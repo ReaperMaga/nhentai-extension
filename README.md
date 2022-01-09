@@ -40,6 +40,10 @@ Download and Add it to your add-ons
 Highlight the 6 Digits and Right click.
 
 
+## Firefox
+
+Download now for [Firefox](https://gitub.com/Nyxiie/nhentai-extension-ff)
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/ReaperMaga/nhentai-extension/blob/main/LICENSE.md) for more information.
